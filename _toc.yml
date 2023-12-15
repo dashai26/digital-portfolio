@@ -1,0 +1,13 @@
+# Table of contents
+
+format: jb-book
+root: intro
+parts:
+  - caption: Introduction
+    chapters:
+    - file: about_me
+    - file: cv
+  - caption: Example of Analysis
+    chapters:
+    - file: analysis_example.ipynb
+    - file: citations.md
